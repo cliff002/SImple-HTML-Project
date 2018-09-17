@@ -12,5 +12,6 @@ Position images in relation to text with HTML and CSS.
 Use of exadecimal color values and inserted a background image using HTML.
 Added a copyright statement using HTML special character code.
 Created hyperlinks in a Web document.
+Created external links using full and partial URLs. In the next section, you will learn how to create an internal link to a different area within the same page.
 
 ![html_css_screenshot](https://user-images.githubusercontent.com/40976021/45647792-9d716c00-ba7b-11e8-9d98-3091b251c38d.jpg)
