@@ -13,4 +13,4 @@ Use of exadecimal color values and inserted a background image using HTML.
 Added a copyright statement using HTML special character code.
 Created hyperlinks in a Web document.
 
-![html_example](https://user-images.githubusercontent.com/40976021/45589224-197e7f00-b8d7-11e8-8619-73e9cb3aa9cc.jpg)
+![html_css_screenshot](https://user-images.githubusercontent.com/40976021/45647792-9d716c00-ba7b-11e8-9d98-3091b251c38d.jpg)
